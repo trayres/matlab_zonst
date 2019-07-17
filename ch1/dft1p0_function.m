@@ -1,7 +1,6 @@
 %%% DFT 1.0 - Generate Square Wave
 % Loop version
 function [i_o, dft] = dft1p0_function(n)
-%n = input("Number of Terms");
 i_o = []
 dft = [];
 
